@@ -2,11 +2,13 @@
 {
   background-color: aqua;
 }
+
 img
 {
   display: block;
   margin: auto; 
 }
+
 h1
 {
   font-size: 45px;
@@ -18,6 +20,7 @@ h2, h3, h4, h5, h6
 {
   color: blueviolet;
 }
+
 a
 {
   color: indigo;
