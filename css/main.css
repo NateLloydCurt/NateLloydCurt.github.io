@@ -1,4 +1,9 @@
 :root
 {
-  background-color: LightPink;
+  background-color: LightBlue;
+}
+img
+{
+  display: block;
+  margin: auto; 
 }
