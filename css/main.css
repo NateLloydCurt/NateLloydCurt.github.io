@@ -16,7 +16,7 @@ h1
   texti-align: center;
 }
 
-h2, h3, h4, h5, h6
+h2, h5, h6
 {
   color: blueviolet;
 }
@@ -40,4 +40,16 @@ p
 {
    color: salmon;
   font-size: 35px;
+}
+
+h3
+{
+  color: tomato;
+  font-size: 53px;
+}
+
+h4
+{
+  color: gold;
+  font-size: 62px;
 }
