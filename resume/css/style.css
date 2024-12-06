@@ -1,1 +1,55 @@
+:root
+{
+  background-color: gray;
+}
 
+img
+{
+  display: block;
+  margin: auto; 
+}
+
+h1
+{
+  font-size: 45px;
+  color: purple;
+  texti-align: center;
+}
+
+h2, h5, h6
+{
+  color: blue;
+}
+
+a
+{
+  color: pink;
+}
+
+.likes
+{
+  color: rgb(70,50,50);
+  font-size: 35px;
+}
+
+li
+{
+color: purple;
+}
+p
+{
+   color: daekblue;
+  font-size: 35px;
+}
+
+h3
+{
+  color: green;
+  font-size: 56px;
+}
+
+h4
+{
+  color: yellow;
+  font-size: 68px;
+}
